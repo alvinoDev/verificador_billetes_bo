@@ -54,10 +54,10 @@ Verifica al instante si un billete de **Bs 10, 20 o 50** (Serie B) está inhabil
 1. **Descarga el APK** que mejor se adapte a tu celular Android:
 
    - **Recomendado para la mayoría** (celulares modernos desde 2018 en adelante – Samsung, Xiaomi, Motorola, etc.):  
-     [⬇️ app-arm64-v8a-release.apk (125 MB)](https://github.com/alvinoDev/verificador_billetes_bo/releases/download/v1.0.0/app-arm64-v8a-release.apk)
+     [⬇️ app-arm64-v8a-release.apk (125 MB)](https://github.com/alvinoDev/verificador_billetes_bo/releases/download/v1.1.0/app-arm64-v8a-release.apk)
 
    - **Solo si tienes un celular muy antiguo** (modelos de 2015-2018 o low-end que no instala el de arriba):  
-     [⬇️ app-armeabi-v7a-release.apk (97 MB)](https://github.com/alvinoDev/verificador_billetes_bo/releases/download/v1.0.0/app-armeabi-v7a-release.apk)
+     [⬇️ app-armeabi-v7a-release.apk (97 MB)](https://github.com/alvinoDev/verificador_billetes_bo/releases/download/v1.1.0/app-armeabi-v7a-release.apk)
 
    *(No necesitas descargar el de x86_64, es para emuladores y casos muy raros)*
 
