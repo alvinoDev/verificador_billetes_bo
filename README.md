@@ -24,7 +24,7 @@ Gracias por entender y por ayudar a difundir la versión actualizada.
 
 | sábado 28 de febrero                | domingo 1 de marzo                  |
 |-------------------------------------|-------------------------------------|
-| ![Home](assets/evidencias/image_1.png)       | ![Scanner](assets/evidencias/image_2.jpg) |
+| ![Home](assets/evidencias/image_1.PNG)       | ![Scanner](assets/evidencias/image_2.jpg) |
 
 ## ¿Qué hace esta app?
 
